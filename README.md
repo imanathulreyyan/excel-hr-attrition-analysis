@@ -4,7 +4,7 @@
 
 An end-to-end Excel analysis of 1,470 IBM employees: data checks, helper columns, pivot tables, slicers and an interactive dashboard that shows who is most likely to leave and why.
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
